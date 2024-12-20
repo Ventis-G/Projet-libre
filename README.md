@@ -14,6 +14,11 @@ CSS, HTML, FLEXBOX & CSS GRID, RESPONSIVE WEB DESIGN.
 https://ventis-g.github.io/Projet-libre/
 
 
+Je rencontre un problème que je n'arrive pas à résoudre pour une raison inconnue. Je vous ai envoyé un mail sur la messagerie zimbra pour essayer de régler ce problème mais vous ne l'avez pas vu. 
+C'est donc pour cela que les images n'apparaissent pas sur le lien ci dessus. 
+
+
+
 
 
 
