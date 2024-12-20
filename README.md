@@ -11,7 +11,7 @@ CSS, HTML, FLEXBOX & CSS GRID, RESPONSIVE WEB DESIGN.
 
 # Lien vers le site web : 
 
-https://ventis-g.github.io/Projet-libre/
+
 
 
 Je rencontre un problème que je n'arrive pas à résoudre pour une raison inconnue. Je vous ai envoyé un mail sur la messagerie zimbra pour essayer de régler ce problème mais vous ne l'avez pas vu. 
